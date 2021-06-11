@@ -16,6 +16,7 @@ import paquete4.PrestamoEducativo;
 public class Ejecutor {
 
     public static void main(String[] args) {
+        // Integrantes: Angel Pardo - Gerald Jaramillo.
         Scanner read = new Scanner(System.in);
         int op1, op2;
         String nom, ap, ciud;
